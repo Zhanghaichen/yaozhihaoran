@@ -1,0 +1,6 @@
+echo "# yaozhihaoran" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Zhanghaichen/yaozhihaoran.git
+git push -u origin master
